@@ -18,4 +18,5 @@ body {
 
 .border-blue {
     border: 2px dotted blue;
+    text-align: center;
 }
